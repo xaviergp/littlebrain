@@ -9,7 +9,7 @@
 
 
 
-> Please cite this:
+> Please cite:
 > - bla
 > - bla
 
