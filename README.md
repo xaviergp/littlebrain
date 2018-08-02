@@ -1,7 +1,7 @@
-```
-News:
-- x/x/x: released
-```
+| News        | Date           |
+| ------------- |:-------------:|
+| blabla blablabla blabla      | x/x/x |
+
 
 [Click here to download pdf](https://github.com/xaviergp/website2/blob/master/Test_pdf.pdf)
 
