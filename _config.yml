@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-logo: [https://github.com/xaviergp/website2/blob/master/testimage.jpg]
+logo: https://github.com/xaviergp/website2/blob/master/testimage.jpg
+title: This is the title
+description: This is the description
