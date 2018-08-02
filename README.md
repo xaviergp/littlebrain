@@ -5,9 +5,9 @@ Some text here.
 [Click here to download the paper](https://github.com/xaviergp/website2/edit/master/README.md)
 
 Please cite this:
-~ bla
-~ bla
+- bla
+- bla
 
 Questions?
-email: xxxx
-or post an issue here:
+- email: xxxx
+- or post an issue here:
