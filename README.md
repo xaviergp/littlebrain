@@ -1,4 +1,7 @@
-Some text here.
+```
+News:
+- x/x/x: released
+```
 
 [Click here to download pdf](https://github.com/xaviergp/website2/blob/master/Test_pdf.pdf)
 
