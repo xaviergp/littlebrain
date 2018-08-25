@@ -1,22 +1,16 @@
 | News        | Date           |
 | ------------- |:-------------:|
-| blabla blablabla blabla      | x/x/x |
+| LittleBrain v1.0 release| 08/25/2018 |
 
 
 [Click here to download pdf](https://github.com/xaviergp/website2/blob/master/Test_pdf.pdf)
 
-[Click here to download the paper](https://github.com/xaviergp/website2/edit/master/README.md)
-
-
-
 > Please cite:
-> - bla
-> - bla
-
+> - Guell X, Schmahmann JD, Gabrieli JG, Satrajit SG. Functional gradients of the cerebellum. eLife 2018;7:e36652 DOI: 10.7554/eLife.36652
 
 
 > Questions?
-> - email: xxxx
-> - or post an issue here:
+> - email: littlebraintoolbox@gmail.com
+> - or post an issue here: https://github.com/xaviergp/littlebrain/issues
 
-Developed at xxx in xxx.
+Developed at MIT in 2018.
