@@ -4,7 +4,7 @@
 | LittleBrain pre-print posted on bioRxiv| 08/26/2018 |
 
 
-[Click here to download LittleBrain MANUAL](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v1_Manual.pdf)
+[Click here to download LittleBrain MANUAL (version 1)](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v1_Manual.pdf)
 
 [Click here to download LittleBrain MANUAL (revision; release candidate for version 2)](https://github.com/xaviergp/littlebrain/blob/master/Revision/LittleBrain_v2_Manual.pdf)
 
