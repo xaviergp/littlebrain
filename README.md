@@ -6,7 +6,7 @@
 
 [Click here to download LittleBrain MANUAL (version 1)](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v1_Manual.pdf)
 
-[Click here to download LittleBrain MANUAL (revision; release candidate for version 2)](https://github.com/xaviergp/littlebrain/blob/master/Revision/LittleBrain_v2_Manual.pdf)
+[Click here to download LittleBrain MANUAL (revision; release candidate for version 3)](https://github.com/xaviergp/littlebrain/blob/master/Revision/LittleBrain_v3_Manual.pdf)
 
 [Click here to download pre-print full manuscript](https://www.biorxiv.org/content/early/2018/08/26/400416)
 
