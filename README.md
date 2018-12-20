@@ -2,8 +2,8 @@
 | ------------- |:-------------:|
 | LittleBrain version 1.0.0 release| 08/25/2018 |
 | LittleBrain pre-print posted on bioRxiv| 08/26/2018 |
-| LittleBrain version 2.0.0 release (added: non-binary maps, gradient values csv output)| 11/21/2018 |
-| LittleBrain version 3.0.0 release (added: network-colored maps)| 12/13/2018 |
+| LittleBrain version 2.0.0 release<br>(added: non-binary maps, gradient values csv output)| 11/21/2018 |
+| LittleBrain version 3.0.0 release<br>(added: network-colored maps)| 12/13/2018 |
 
 [Click here to download LittleBrain MANUAL (version 3)](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v3_Manual.pdf)
 
