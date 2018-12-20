@@ -18,4 +18,4 @@
 > - email: littlebraintoolbox@gmail.com
 > - or post an issue here: https://github.com/xaviergp/littlebrain/issues
 
-Developed at MIT in 2018.
+Developed at MIT and MGH in 2018.
