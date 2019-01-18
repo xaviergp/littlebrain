@@ -11,7 +11,7 @@
 
 > Please cite:
 > - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. Functional gradients of the cerebellum. eLife 2018;7:e36652 DOI: 10.7554/eLife.36652
-> - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS. LittleBrain: a gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings. bioRxiv 2018. DOI: 10.1101/400416
+> - Guell X, Goncalves M, Kaczmarzyk JR, Gabrieli JDE, Schmahmann JD, Ghosh SS (2019) LittleBrain: A gradient-based tool for the topographical interpretation of cerebellar neuroimaging findings. PLoS ONE 14(1): e0210028.
 
 
 > Questions?
