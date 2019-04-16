@@ -10,6 +10,7 @@
 [Click here to download LittleBrain MANUAL (version 3)](https://github.com/xaviergp/littlebrain/blob/master/LittleBrain_v3_Manual.pdf)
 
 [Click here to access full LittleBrain toolbox article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210028)
+
 [Click here to access full Functional Gradients article](https://elifesciences.org/articles/36652)
 
 > Please cite:
