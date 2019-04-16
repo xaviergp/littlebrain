@@ -11,7 +11,7 @@
 
 [Click here to access full LittleBrain toolbox article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210028)
 
-[Click here to access full Functional Gradients article](https://elifesciences.org/articles/36652)
+[Click here to access full Functional gradients article](https://elifesciences.org/articles/36652)
 
 > Please cite:
 > - Guell X, Schmahmann JD, Gabrieli JDE, Ghosh SS. Functional gradients of the cerebellum. eLife 2018;7:e36652 DOI: 10.7554/eLife.36652
